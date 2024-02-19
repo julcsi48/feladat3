@@ -135,3 +135,27 @@ section.contpage
 	text-align: center;
 	font-size: 20px;
 }
+
+header{
+height: 200pt;
+}
+
+article{
+	text-align: justify;
+}
+
+aside{
+	width: 230pt;
+	margin-left: 20px;
+	float: right;
+}
+a{
+	color:#de6581;
+}
+h1,h2,h3{
+	font-weight: normal;
+}
+li{
+	float:left;
+
+}
